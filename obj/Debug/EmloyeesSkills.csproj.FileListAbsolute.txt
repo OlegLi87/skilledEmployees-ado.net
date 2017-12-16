@@ -1,0 +1,16 @@
+C:\Users\micro\Desktop\EmloyeesSkills\EmloyeesSkills\bin\Debug\EmloyeesSkills.exe.config
+C:\Users\micro\Desktop\EmloyeesSkills\EmloyeesSkills\bin\Debug\EmloyeesSkills.exe
+C:\Users\micro\Desktop\EmloyeesSkills\EmloyeesSkills\bin\Debug\EmloyeesSkills.pdb
+C:\Users\micro\Desktop\EmloyeesSkills\EmloyeesSkills\obj\Debug\EmloyeesSkills.frmMain.resources
+C:\Users\micro\Desktop\EmloyeesSkills\EmloyeesSkills\obj\Debug\EmloyeesSkills.Properties.Resources.resources
+C:\Users\micro\Desktop\EmloyeesSkills\EmloyeesSkills\obj\Debug\EmloyeesSkills.csproj.GenerateResource.Cache
+C:\Users\micro\Desktop\EmloyeesSkills\EmloyeesSkills\obj\Debug\EmloyeesSkills.exe
+C:\Users\micro\Desktop\EmloyeesSkills\EmloyeesSkills\obj\Debug\EmloyeesSkills.pdb
+C:\Users\micro\Desktop\Emloyees Skills\EmloyeesSkills\bin\Debug\EmloyeesSkills.exe.config
+C:\Users\micro\Desktop\Emloyees Skills\EmloyeesSkills\obj\Debug\EmloyeesSkills.exe
+C:\Users\micro\Desktop\Emloyees Skills\EmloyeesSkills\obj\Debug\EmloyeesSkills.pdb
+C:\Users\micro\Desktop\Emloyees Skills\EmloyeesSkills\bin\Debug\EmloyeesSkills.exe
+C:\Users\micro\Desktop\Emloyees Skills\EmloyeesSkills\bin\Debug\EmloyeesSkills.pdb
+C:\Users\micro\Desktop\Emloyees Skills\EmloyeesSkills\obj\Debug\EmloyeesSkills.frmMain.resources
+C:\Users\micro\Desktop\Emloyees Skills\EmloyeesSkills\obj\Debug\EmloyeesSkills.Properties.Resources.resources
+C:\Users\micro\Desktop\Emloyees Skills\EmloyeesSkills\obj\Debug\EmloyeesSkills.csproj.GenerateResource.Cache
